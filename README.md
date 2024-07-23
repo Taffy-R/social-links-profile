@@ -124,5 +124,5 @@ I would like to have a deep understanding of HTML a CSS. On CSS I would like to 
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@Taffy-R](https://www.frontendmentor.io/profile/@Taffy-R)
+- Frontend Mentor - [@Taffy-R](https://www.frontendmentor.io/profile/Taffy-R)
 - Twitter - [@tafadzwaruzvidz](https://www.twitter.com/@tafadzwaruzvidz)
